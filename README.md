@@ -2,8 +2,7 @@
 
 This bot was made for the YKZA FanScans server. No clue if they're gonna use it but it's here...
 
-If they are gonna use it, get it with [this link](https://canary.discord.com/api/oauth2/authorize?client_id=832143666679382057&permissions=134144&scope=bot)
-Don't use that link if you aren't putting it in the YKZA server or you will be wildly disappointed. That bot is specifically for the YKZA server so all of the bits and bobs have been hardcoded for them.
+If they are gonna use it, get it with [this link](https://canary.discord.com/api/oauth2/authorize?client_id=832143666679382057&permissions=134144&scope=bot). Don't use that link if you aren't putting it in the YKZA server or you will be wildly disappointed. That bot is specifically for the YKZA server so all of the bits and bobs have been hardcoded for them.
 
 If you want to use it in your server, self-host it! `config.js` contains all of the stuff you need to change to get this to work. They have been commented to make it easy to know what does what.
 
