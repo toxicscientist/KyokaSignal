@@ -32,5 +32,5 @@ module.exports = {
   // They are chosen randomly so don't take it too seriously
   token: process.env.TOKEN
   // This is the token in the file ".env"
-  // Use https://www.writebots.com/discord-bot-token/ to get a token and then paste it in the .env file where it's written "Your token here"
+  // Use https://www.writebots.com/discord-bot-token/ to get a token and then paste it in the .env file where it's written "Your token"
 };
